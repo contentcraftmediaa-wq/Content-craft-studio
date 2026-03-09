@@ -1,0 +1,8 @@
+{
+  "name": "Content Craft Studio",
+  "description": "The ultimate AI-powered creative suite for social media marketing. Generate text, images, video, and audio with Gemini and Veo.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
